@@ -6,9 +6,8 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Hugo Authors"
 +++
 
-
 <p align="center">
-  <img width="250" height="250" src="static/img/edited2.png">
+  <img width="250" height="250" src="https://i.ibb.co/ckh7mXd/edited1.png">
 </p>
 
 
