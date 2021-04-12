@@ -4,7 +4,7 @@ languageCode = "en-us"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
-PygmentsStyle = "monokai"
+PygmentsStyle = "dracula"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
@@ -32,7 +32,7 @@ disableRSS     = false
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
-# defaultTheme = "dark"
+defaultTheme = "light"
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
@@ -100,7 +100,7 @@ disableHugoGeneratorInject = false
   #
   justifyContent = false  # Set "text-align: justify" to .post-content.
   # defaultTheme = "dark"
-  # themeColor = "#252627"
+  # themeColor = "#d1a3a3"
 
   # Custom footer
   # If you want, you can easily override the default footer with your own content.
