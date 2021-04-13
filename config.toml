@@ -4,14 +4,14 @@ languageCode = "en-us"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
-PygmentsStyle = "dracula"
+PygmentsStyle = "solarized-light"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 googleAnalytics = "G-HYLF993B5K"
-disqusShortname = "my-blog-tqezivxlqb"
+disqusShortname = "https-soumya997-netlify-app"
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -80,7 +80,7 @@ defaultTheme = "light"
   # Per default, this option is off.
   # The theme is respecting the prefers-color-scheme of the operating systeme.
   # With this option on, the page user is able to set the scheme he wants.
-  enableThemeToggle = false
+  enableThemeToggle = true
 
   # Sharing buttons
   #
@@ -111,9 +111,9 @@ defaultTheme = "light"
   # Colors for favicons
   #
   [params.favicon.color]
-    mask = "#1b1c1d"
-    msapplication = "#1b1c1d"
-    theme = "#1b1c1d"
+    mask = "#027df7"
+    msapplication = "#027df7"
+    theme = "#027df7"
 
   [params.logo]
     logoMark     = ">"
